@@ -2,13 +2,13 @@
 
 ### Information Systems Student | Software Developer | AI & Machine Learning Enthusiast
 
-I'm an Information Systems student and software developer from Ethiopia, interested in building practical software solutions that solve real-world problems.
+I'm an Information Systems student and software developer from Ethiopia, interested in building practical software solutions that address real-world problems.
 
-I enjoy developing web applications, designing information systems, working with databases and APIs, and exploring Artificial Intelligence and Machine Learning.
+I enjoy developing web applications, designing information systems, working with databases and APIs, and exploring Artificial Intelligence and Machine Learning. I learn best by turning ideas into projects, experimenting with technologies, and improving what I build along the way.
 
 - 🎓 Studying Information Systems at Ambo University, Weliso Campus.
-- 💻 Building full-stack applications and practical software projects.
-- 🤖 Developing my knowledge of Machine Learning and AI.
+- 💻 Building web applications, backend services, and practical software projects.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
 - 🗄️ Interested in database design, system development, and information management.
 - 🌍 Based in Ethiopia.
 - 🚀 Always learning, building, and improving.
@@ -17,34 +17,33 @@ I enjoy developing web applications, designing information systems, working with
 
 ## 🛠️ Technical Skills
 
-### Frontend Development
+**Frontend Development**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-Learning-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend Development
+**Backend Development**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Databases
+**Databases**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### AI & Machine Learning
+**AI & Machine Learning**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+**Tools & Platforms**
 
-### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -55,18 +54,29 @@ I enjoy developing web applications, designing information systems, working with
 ## 🚀 Featured Projects
 
 ### 1. BBC News Search Engine
+
 A search engine project focused on searching and retrieving BBC news content.
 
-- Repository: [BBC News Search Engine](https://github.com/Ashenafi053/bbc-search-engine)
+- [GitHub Repository](https://github.com/Ashenafi053/bbc-search-engine)
+- Live demo: Coming soon.
 
 ### 2. IS Course Materials Telegram Bot
-A Python-based Telegram bot designed to organize and provide Information Systems course materials using a database-backed architecture.
+
+A Python-based Telegram bot designed to help Information Systems students at Ambo University, Weliso Campus access course-related learning materials.
+
+- Built with Python and Aiogram.
+- Uses SQLite for data storage.
+- Features interactive menus and course navigation.
 
 ### 3. ERMI Welding Business Website
-A responsive business website showcasing welding services, project galleries, and multilingual content.
 
-### 4. Machine Learning Projects
-Developing practical machine learning projects while studying supervised learning, regression, model evaluation, and predictive analytics.
+A responsive website developed for a real welding business to showcase its services and completed projects.
+
+- Built with HTML, CSS, and JavaScript.
+- Includes a project gallery and contact section.
+- Supports English, Amharic, and Afaan Oromoo.
+
+**Live Website:** [ermiwelding.com](http://ermiwelding.com/)
 
 ---
 
@@ -74,9 +84,9 @@ Developing practical machine learning projects while studying supervised learnin
 
 - Supervised Machine Learning
 - Regression and Classification
-- Model Evaluation and Optimization
+- Model Evaluation
 - Data Analysis with Python
-- Building scalable backend applications
+- React and modern frontend development
 - Software Engineering and System Design
 
 ---
@@ -84,7 +94,7 @@ Developing practical machine learning projects while studying supervised learnin
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashenafi053&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashenafi's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashenafi053&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 </p>
 
 <p align="center">
@@ -99,9 +109,11 @@ Developing practical machine learning projects while studying supervised learnin
 
 ## 🤝 Let's Connect
 
-I'm interested in collaborating on software development, information systems, and AI/ML projects.
+I'm open to collaborating on software development, information systems, and AI/ML projects, as well as internship and freelance opportunities.
 
-- GitHub: [@Ashenafi053](https://github.com/Ashenafi053)
+- **GitHub:** [@Ashenafi053](https://github.com/Ashenafi053)
+- **LinkedIn:** [Ashenafi Girma](https://www.linkedin.com/in/ashuti02)
+- **Telegram:** [@ashuti_02](https://t.me/ashuti_02)
 
 ---
 
